@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+
+<ficha id="2" fechaingreso="12/02/2018">
+<nombre>Wendy</nombre>
+<apellido>Cortez</apellido>
+<direccion>La Paz</direccion>
+<carnet>CH11049</carnet>
+<correo>ch11049@ues.edu.sv</correo>
+</ficha>
+
+<ficha id="3" fechaingreso="12/02/2018">
+<nombre>Abigail</nombre>
+<apellido>Cortez</apellido>
+<direccion>La Paz</direccion>
+<carnet>CH21019</carnet>
+<correo>ch21019@ues.edu.sv</correo>
+</ficha>
+</fichero>

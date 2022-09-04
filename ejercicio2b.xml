@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml  ml17017 -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+<zona>Central</zona>
+<areaTerritorial>886 km</areaTerritorial>
+</departamento>
+
+<departamento id="2" nombre="Cuscatlan">
+<cabecera>Cojutepeque</cabecera>
+<habitantes>1500,000</habitantes>
+<altura>655 MSNM</altura>
+<zona>Central</zona>
+<areaTerritorial>756 km</areaTerritorial>
+</departamento>
+
+<departamento id="2" nombre="Cabañas">
+<cabecera>	Sensuntepeque</cabecera>
+<habitantes>149 326</habitantes>
+<altura>155 MSNM</altura>
+<zona>paracentral</zona>
+<areaTerritorial>1104km</areaTerritorial>
+</departamento>
+</pais>

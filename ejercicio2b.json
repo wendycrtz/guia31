@@ -1,0 +1,34 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"zona": "Central",
+				"areaTerritorial": "886 km",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Cojutepeque",
+				"habitantes": "1500,000",
+				"altura": "655 MSNM",
+				"zona": "Central",
+				"areaTerritorial": "756 km",
+				"_id": "2",
+				"_nombre": "Cuscatlan"
+			},
+			{
+				"cabecera": "Sensuntepeque",
+				"habitantes": "149 326",
+				"altura": "155 MSNM",
+				"zona": "paracentral",
+				"areaTerritorial": "1104km",
+				"_id": "2",
+				"_nombre": "Cabañas"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

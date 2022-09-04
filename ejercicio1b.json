@@ -1,0 +1,31 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Wendy",
+				"apellido": "Cortez",
+				"direccion": "La Paz",
+				"carnet": "Ch11049",
+				"correo": "ch11049@ues.edu.sv",
+				"_id": "2",
+				"_fechaingreso": "12/02/2018"
+			},
+			{
+				"nombre": "Abigail",
+				"apellido": "Cortez",
+				"direccion": "La Paz",
+				"carnet": "Ch21019",
+				"correo": "ch21019@ues.edu.sv",
+				"_id": "3",
+				"_fechaingreso": "12/02/2019"
+			}
+		]
+	}
+}

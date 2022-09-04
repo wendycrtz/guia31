@@ -1,0 +1,25 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"zona": "Central",
+				"areaTerritorial": "886 km",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Zacatecoluca",
+				"habitantes": "1500,000",
+				"altura": "655 MSNM",
+				"zona": "Central",
+				"areaTerritorial": "756 km",
+				"_id": "2",
+				"_nombre": "La Paz"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}
